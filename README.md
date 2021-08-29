@@ -2,7 +2,7 @@
 
 ### Setting up the parallel environment
 1. Refer the PPT Approach for detailed seps.
-2. Download two files - master and slave from drive link mentioned here ().
+2. Download two files - master and slave from drive link mentioned here (master : https://drive.google.com/file/d/1kC1V9IX9YHDyJf0A_yAcPGB0as4pkoK8/view?usp=sharing and slave : https://drive.google.com/file/d/1sSv9fUnzEwJOjbOUJ3nFJohtKby98Waz/view?usp=sharing).
 
 ### After setup
 1. After the master and slave nodes are established, go to master node and write the program from rsa.c
